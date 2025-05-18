@@ -2,6 +2,8 @@
 
 这是一个基于安卓平台开发的文本加密解密应用，通过独特的"坤曰"算法将文本转换为以"只因你太美"五个字为基础的加密格式。
 ![image](https://github.com/user-attachments/assets/5eb29918-9dfc-4c7d-867f-44e65114669b)
+![image](https://github.com/user-attachments/assets/05ac5dd1-e74e-462b-9bf7-3d2db1b4fd04)
+
 
 
 ## 应用功能
